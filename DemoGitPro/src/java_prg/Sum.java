@@ -18,6 +18,7 @@ public class Sum
 		System.out.println("Line to check my change!!");
 		System.out.println("Hi from git");
 		System.out.println("Finally done");
+		System.out.println("Demo by me :)");
 		sc.close();
 
 	}
