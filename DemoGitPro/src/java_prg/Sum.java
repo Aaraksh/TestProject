@@ -15,6 +15,7 @@ public class Sum
 		b=sc.nextInt();
 		sum=a+b;
 		System.out.println("Sum of two numbers: "+sum);
+		System.out.println("Line to check my change!!");
 		sc.close();
 
 	}
