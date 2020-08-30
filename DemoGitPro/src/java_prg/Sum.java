@@ -17,6 +17,7 @@ public class Sum
 		System.out.println("Sum of two numbers: "+sum);
 		System.out.println("Line to check my change!!");
 		System.out.println("Hi from git");
+		System.out.println("Finally done");
 		sc.close();
 
 	}
