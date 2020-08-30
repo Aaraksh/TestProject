@@ -16,6 +16,7 @@ public class Sum
 		sum=a+b;
 		System.out.println("Sum of two numbers: "+sum);
 		System.out.println("Line to check my change!!");
+		System.out.println("Demo by me :)");
 		sc.close();
 
 	}
